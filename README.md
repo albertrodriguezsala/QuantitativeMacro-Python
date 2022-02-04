@@ -1,4 +1,4 @@
-# QuantitativeMacro-TAs
+# QuantitativeMacro-Python
 
 1. Intro to Programming for Economists.
 
