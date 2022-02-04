@@ -33,6 +33,8 @@
   
            5.4 Iterate (5.1 to 5.3) till markets clear. (GE solution)
 
+           5.5 Parallelization to speed-up the process!!
+
 6. Solving ABHI economy with: finite horizon AR(1) shocks, permanent productivities, 2 goods.
   
            6.1 Using class objects in Python to keep our models and code ordered.
