@@ -1,7 +1,9 @@
 # QuantitativeMacro-TAs
 
 1. Intro to Programming for Economists.
+
   1.1 Introduction to programming for economists.
+  
   1.2 Introduction to Python.
   
 2. Perturbation methods and Global Approximation Methods.
